@@ -1,3 +1,3 @@
 # private-loan-cases-dataset
 
-Cases to be added in December. Stay tunned
+We are in teh process of removing entitive info from the cases, and the data will to be  available in December. 
